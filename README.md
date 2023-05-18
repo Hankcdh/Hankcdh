@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hankcdh
-- 👀 I’m interested in Machine Learning and Web Development 
-- 🌱 I’m currently learning Spring Framework
-- 💞️ I’m looking to collaborate on Spring 
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning PowerBI
+- 💞️ I’m looking into Healthcare industry 
 - 📫 Please reach me by email: hankcdh@yahoo.com.au
 
